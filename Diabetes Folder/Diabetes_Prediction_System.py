@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 import numpy as np
-from sklearn.ensemble import RandomForestClassifier
+
 
 # Load the saved model with encoding
 rfc_model = joblib.load(open('rfc_model.joblib', 'rb'))
