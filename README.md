@@ -71,14 +71,14 @@ precision    recall  f1-score   support
     
     
     accuracy                           1.00      1260
-   macro avg       1.00      1.00      1.00      1260
-weighted avg       1.00      1.00      1.00      1260
+- macro avg       1.00      1.00      1.00      1260
+- weighted avg       1.00      1.00      1.00      1260
 
-[[250   0   0   0   0]
- [  0 239   0   0   0]
- [  0   0 256   0   0]
- [  3   0   0 251   3]
- [  0   0   0   0 258]]
+- [[250   0   0   0   0]
+-  [  0 239   0   0   0]
+- [  0   0 256   0   0]
+- [  3   0   0 251   3]
+- [  0   0   0   0 258]]
 
  ## Code
  Python script code used
