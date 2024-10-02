@@ -1,8 +1,8 @@
 # Project Title: Diabetes Prediction Web App
 - [Project overview](#project-overview)
 - [Features](#features)
-- [Usage[(#usage)
-- [Directory Structure](#directory structure)
+- [Usage](#usage)
+- [Directory Structure](#directory-structure)
 - [Requirements](#requirements)
 - [Visualization](#visualization)
 - [Classification report & Confusion matrix](#Classification-report-&Confusion-matrix)
@@ -68,6 +68,8 @@ precision    recall  f1-score   support
            3       1.00      0.98      0.99       257
            4       0.99      1.00      0.99       258
 
+    
+    
     accuracy                           1.00      1260
    macro avg       1.00      1.00      1.00      1260
 weighted avg       1.00      1.00      1.00      1260
@@ -79,7 +81,7 @@ weighted avg       1.00      1.00      1.00      1260
  [  0   0   0   0 258]]
 
  ## Code
- Some of the python script code used
+ Python script code used
 ```
 import streamlit as st
 import joblib
